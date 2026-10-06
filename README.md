@@ -25,3 +25,6 @@ t = takeoff, l = land, a = toggle auto mode, q = quit
 - `experiments/` – test scripts and test-case definitions
 - `docs/` – milestones, reports, diagrams
 - `data/` – logs/results (large videos are NOT stored here, see below)
+
+## Flight videos
+Stored in the shared Google Drive folder: ([paste link here](https://drive.google.com/drive/folders/1DHO5mDbSSxhhu1Cm4fEidSwGCjeYZlsI?usp=sharing))
