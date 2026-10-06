@@ -1,5 +1,3 @@
-# Improvement-of-Autonomous-Drone-Gate-Navigation-2026-2027
-
 # Improvement of Autonomous Drone Gate Navigation (COE/ELE 70A/B, 2026–2027)
 
 Tello drone that detects a 4-marker ArUco gate, aligns with it, and flies through.
