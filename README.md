@@ -27,4 +27,4 @@ t = takeoff, l = land, a = toggle auto mode, q = quit
 - `data/` – logs/results (large videos are NOT stored here, see below)
 
 ## Flight videos
-Stored in the shared Google Drive folder: ([paste link here](https://drive.google.com/drive/folders/1DHO5mDbSSxhhu1Cm4fEidSwGCjeYZlsI?usp=sharing))
+Stored in the shared Google Drive folder: ([Link](https://drive.google.com/drive/folders/1DHO5mDbSSxhhu1Cm4fEidSwGCjeYZlsI?usp=sharing))
