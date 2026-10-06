@@ -8,10 +8,10 @@ Goal: build a baseline, measure it, find weaknesses, improve, and re-test.
 ## Team
 | Role | Name |
 |---|---|
-| A – Navigation & Control | |
-| B – Gate Detection & CV | |
-| C – Performance Evaluation | |
-| D – Integration & Documentation | |
+| A – Navigation & Control | Aadil Bholat |
+| B – Gate Detection & CV | Anas Abdi |
+| C – Performance Evaluation | Thomson Chan |
+| D – Integration & Documentation | Raymond Cao Jiang |
 
 ## Setup
     pip install -r requirements.txt
